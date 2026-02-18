@@ -1,4 +1,4 @@
-const btn = document.getSelection('btn-calc');
+const btn = document.getElementById('btn-calc');
 
 btn.addEventListener('click', function() {
     
